@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RiderApp</string>
+    <string name="waitingForPickup">Please wait at your pickup.\nYour vehicle is arriving soon.</string>
+    <string name="inVehicle">You are now in the vehicle.\n Please enjoy your ride.</string>
+    <string name="droppedOff">Congratulations!!! Now you arrived at your destination\n Hope you are happy with our service.</string>
+</resources>

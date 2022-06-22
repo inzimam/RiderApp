@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_label">16sp</dimen>
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="padding_card">10dp</dimen>
+    <dimen name="margin_start">10dp</dimen>
+    <dimen name="margin_bottom">10dp</dimen>
+    <dimen name="elevation">2dp</dimen>
+    <dimen name="drawable_padding">10dp</dimen>
+</resources>
